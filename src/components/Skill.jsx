@@ -62,6 +62,11 @@ const skillItem = [
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
+    {
+      imgSrc: '/images/rails.svg',
+      label: 'Ruby on Rails',
+      desc: 'Back End Framework'
+    },
   ];
 
 
