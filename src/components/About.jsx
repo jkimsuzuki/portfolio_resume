@@ -7,7 +7,7 @@
 const aboutItems = [
     {
       label: 'Languages Spoken',
-      number: 
+      number: '',
     },
   ];
 
