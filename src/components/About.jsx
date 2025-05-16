@@ -32,7 +32,7 @@ const About = () => {
                         <div key={key}>
                           <div className="flex items-center md:mb-2">
                             <span className="text-2xl font-semibold md:text-4xl">{number}</span>
-                            <span className="text-sky-400 font-semibold md:text-3xl">English, 日本語, 한국어</span>
+                            <span className="text-sky-400 font-semibold md:text-2xl">English, 日本語, 한국어</span>
                           </div> 
 
 
