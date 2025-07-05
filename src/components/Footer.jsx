@@ -34,6 +34,10 @@ const sitemap = [
       label: 'GitHub',
       href: 'https://github.com/jkimsuzuki'
     },
+     {
+      label: 'LinkedIn',
+      href: 'https://www.linkedin.com/in/joseph-kim-suzuki/'
+    },
     {
       label: 'Twitter X',
       href: 'https://x.com/josephkimsuzuki'
