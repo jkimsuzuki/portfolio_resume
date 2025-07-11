@@ -22,15 +22,15 @@ const About = () => {
 
             <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
               <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-               Welcome — it’s great to have you here! I’m passionate about blending creativity with efficiency, guided by a philosophy that balances professionalism, resilience, and respectful, open communication. I’ve learned over time that the best results don’t come from simply working hard — they come from working smart, with intention, empathy, and a genuine commitment to those around me.
+               Welcome — it’s great to have you here! I’m passionate about blending creativity with efficiency to deliver smart, thoughtful solutions that truly make an impact. My approach is grounded in professionalism, open communication, and a genuine commitment to collaboration.
 
-My journey is a colorful mix of experiences: an artistic background that keeps my imagination sharp, athletic training that’s instilled discipline and teamwork, and international adventures that have expanded my adaptability and understanding of different perspectives. Together, these have taught me the immense value of leading with curiosity, embracing diverse ideas, and always thinking beyond the obvious.
+With a unique mix of artistic creativity, athletic discipline, and international experience, I bring adaptability, curiosity, and fresh perspectives to every project. I thrive on tackling challenges proactively and enjoy building something greater than myself through teamwork and innovation.
 
-What truly drives me is the thrill of building something larger than myself. Whether it’s collaborating on a project that breaks new ground or helping a team member shine, I thrive on tackling challenges before they arise and turning obstacles into opportunities. It’s this proactive mindset that keeps me energized and always looking for ways to grow — and help others do the same.
+As a dependable team player, I’m dedicated to supporting and uplifting those around me, fostering an environment where creativity and accountability lead the way.
 
-At the heart of it all, I pride myself on being a genuine team player. You can count on me to show up ready to support, collaborate, and uplift everyone around me, creating an environment where creativity, accountability, and shared success take the spotlight.
+I’m excited to bring my skills, energy, and perspective to your next project. Let’s create something extraordinary together.
 
-I’m excited about the possibility of bringing my unique blend of skills, perspective, and energy to your team. Let’s create something extraordinary together.
+
 
               </p>
 
